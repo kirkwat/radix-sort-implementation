@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 
-add_executable(radix_sort_implementation main.cpp Tester.cpp Tester.h)
+add_executable(radix_sort_implementation main.cpp Launcher.cpp Launcher.h RadixSort.cpp RadixSort.h)
