@@ -1,0 +1,14 @@
+//
+// Created by watso on 4/5/2021.
+//
+
+#ifndef RADIX_SORT_IMPLEMENTATION_TESTER_H
+#define RADIX_SORT_IMPLEMENTATION_TESTER_H
+
+
+class Tester {
+
+};
+
+
+#endif //RADIX_SORT_IMPLEMENTATION_TESTER_H
