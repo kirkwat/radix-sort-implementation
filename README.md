@@ -6,6 +6,8 @@ Student ID: 47876885
 
 Email: klwatson@smu.edu
 
+Medium Article Explaining Radix Sort: [An in-depth introduction of Radix Sort](https://medium.com/smucs/my-algorithm-adventure-radix-sort-669bfc1db0a1)
+
 ## Functionality
 This program takes an input file of numbers to be sorted using Radix Sort.
 The original array is displayed in the terminal.
