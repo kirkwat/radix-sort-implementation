@@ -17,15 +17,13 @@ The purpose of this program is to show how Radix Sort is implemented using LSD.
 Medium Article Explaining Radix Sort: [An in-depth introduction of Radix Sort](https://medium.com/smucs/my-algorithm-adventure-radix-sort-669bfc1db0a1)
 
 ## How to Use
-To use this program, the user will need to provide a formatted input file.
+Compile and build with CMAKE. There is 1 command-line argument.
 
-### Input File
+### Input File Path
 This file will contain integers to fill the array.
 Each value will be separated by a new line.
 The first line of the file contains the number of integers in the file.
 
-### There is 1 command-line argument:
-* Input File Path
-
 Here is an example:
-* ../input.txt
+
+`../input.txt`

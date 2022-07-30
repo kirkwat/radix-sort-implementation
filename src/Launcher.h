@@ -12,9 +12,9 @@ using namespace std;
 //of the array creation and sorting algorithm.
 class Launcher {
 private:
-    RadixSort radix;
-    int* array;
-    int size;
+    RadixSort radix;    //instance of radix sort
+    int* array;         //array of random integers
+    int size;           //size of array if integers
 
 public:
     Launcher();
